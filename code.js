@@ -67,3 +67,4 @@ function findAllOptions(arr, currP, mySet, valuePositionsMap){
     }
     return result;
 } 
+// Time taken to complete this assignment was 25 minutes
